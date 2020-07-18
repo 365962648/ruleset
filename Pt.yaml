@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,eastgame.org
   - DOMAIN-SUFFIX,empornium.me
   - DOMAIN-SUFFIX,et8.org
+  - DOMAIN-SUFFIX,ethor.net
   - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,extremlymtorrents.ws
   - DOMAIN-SUFFIX,filelist.io
@@ -46,12 +47,14 @@ payload:
   - DOMAIN-SUFFIX,hd4.xyz
   - DOMAIN-SUFFIX,hd4fans.org
   - DOMAIN-SUFFIX,hdarea.co
+  - DOMAIN-SUFFIX,hdatmos.club
   - DOMAIN-SUFFIX,hdbd.us
   - DOMAIN-SUFFIX,hdbits.org
   - DOMAIN-SUFFIX,hdbug.best
   - DOMAIN-SUFFIX,hdchina.org
   - DOMAIN-SUFFIX,hdcity.city
   - DOMAIN-SUFFIX,hddolby.com
+  - DOMAIN-SUFFIX,hdf.work
   - DOMAIN-SUFFIX,hdf.world
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,hdpost.top
@@ -100,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,piratethenet.org
   - DOMAIN-SUFFIX,plus.ptdream.net
   - DOMAIN-SUFFIX,pornbits.net
+  - DOMAIN-SUFFIX,pretome.info
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,pt.btschool.club
   - DOMAIN-SUFFIX,pt.eastgame.org
@@ -128,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,ssdforum.org
   - DOMAIN-SUFFIX,sts.tw
   - DOMAIN-SUFFIX,superbits.org
+  - DOMAIN-SUFFIX,tb-asian.org
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,tongyifan.me
   - DOMAIN-SUFFIX,torrentday.com
@@ -142,11 +147,6 @@ payload:
   - DOMAIN-SUFFIX,xauat6.edu.cn
   - DOMAIN-SUFFIX,xspeeds.eu
   - DOMAIN-SUFFIX,yingk.com
-  - DOMAIN-SUFFIX,tb-asian.org
-  - DOMAIN-SUFFIX,pretome.info
-  - DOMAIN-SUFFIX,hdf.work
-  - DOMAIN-SUFFIX,ethor.net
-  - DOMAIN-SUFFIX,hdatmos.club
   # > General Torrent Keyword
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
