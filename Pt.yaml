@@ -22,7 +22,7 @@ payload:
   - DOMAIN-SUFFIX,bt.byr.cn
   - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,bwtorrents.tv
-  - DOMAIN-SUFFIX,byr.cn
+  - DOMAIN,byr.cn
   - DOMAIN-SUFFIX,ccfbits.org
   - DOMAIN-SUFFIX,cgpeers.com
   - DOMAIN-SUFFIX,chdbits.co
@@ -113,19 +113,19 @@ payload:
   - DOMAIN-SUFFIX,pornbits.net
   - DOMAIN-SUFFIX,pretome.info
   - DOMAIN-SUFFIX,privatehd.to
-  - DOMAIN-SUFFIX,pt.btschool.club
-  - DOMAIN-SUFFIX,pt.eastgame.org
-  - DOMAIN-SUFFIX,pt.hd4fans.org
-  - DOMAIN-SUFFIX,pt.hdbd.us
-  - DOMAIN-SUFFIX,pt.hdupt.com
-  - DOMAIN-SUFFIX,pt.j99.info
-  - DOMAIN-SUFFIX,pt.keepfrds.com
-  - DOMAIN-SUFFIX,pt.msg.vg
-  - DOMAIN-SUFFIX,pt.m-team.cc
-  - DOMAIN-SUFFIX,pt.nwsuaf6.edu.cn
-  - DOMAIN-SUFFIX,pt.sjtu.edu.cn
-  - DOMAIN-SUFFIX,pt.soulvoice.club
-  - DOMAIN-SUFFIX,pt.xauat6.edu.cn
+  - DOMAIN,pt.btschool.club
+  - DOMAIN,pt.eastgame.org
+  - DOMAIN,pt.hd4fans.org
+  - DOMAIN,pt.hdbd.us
+  - DOMAIN,pt.hdupt.com
+  - DOMAIN,pt.j99.info
+  - DOMAIN,pt.keepfrds.com
+  - DOMAIN,pt.msg.vg
+  - DOMAIN,pt.m-team.cc
+  - DOMAIN,pt.nwsuaf6.edu.cn
+  - DOMAIN,pt.sjtu.edu.cn
+  - DOMAIN,pt.soulvoice.club
+  - DOMAIN,pt.xauat6.edu.cn
   - DOMAIN-SUFFIX,pter.club
   - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,pthome.net
@@ -153,7 +153,7 @@ payload:
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,torrentseeds.org
   - DOMAIN-SUFFIX,totheglory.im
-  - DOMAIN-SUFFIX,u2.dmhy.org
+  - DOMAIN,u2.dmhy.org
   - DOMAIN-SUFFIX,uhdbits.org
   - DOMAIN-SUFFIX,upxin.net
   - DOMAIN-SUFFIX,vhstapes.org
