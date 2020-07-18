@@ -1,10 +1,12 @@
   # > 本规则为茉莉群私有使用，如有任何问题，第一时间内删除。
+  # > This rule is for private group BonusGone only. If there are any problems, it will be deleted ASAP.
 payload:
   # > Private Tracker
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,alpharatio.cc
   - DOMAIN-SUFFIX,animetorrents.me
+  - DOMAIN-SUFFIX,artofmisdirection.com
   - DOMAIN-SUFFIX,asiancinema.me
   - DOMAIN-SUFFIX,avgv.cc
   - DOMAIN-SUFFIX,avistaz.to
@@ -61,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,hdroute.org
   - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,hd-space.org
+  - DOMAIN-SUFFIX,hd-spain.com
   - DOMAIN-SUFFIX,hdstreet.club
   - DOMAIN-SUFFIX,hdtime.org
   - DOMAIN-SUFFIX,hd-torrents.org
