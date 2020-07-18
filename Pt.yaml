@@ -142,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,pretome.info
   - DOMAIN-SUFFIX,hdf.work
   - DOMAIN-SUFFIX,ethor.net
+  - DOMAIN-SUFFIX,hdatmos.club
   # > General Torrent Keyword
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
