@@ -113,6 +113,8 @@ payload:
   - DOMAIN-SUFFIX,hdbug.best
   - DOMAIN-SUFFIX,hdchina.org
   - DOMAIN-SUFFIX,hdcity.city
+  - DOMAIN-SUFFIX,hdcity.li
+  - DOMAIN-SUFFIX,hdcorea.me
   - DOMAIN-SUFFIX,hddolby.com
   - DOMAIN-SUFFIX,hdf.work
   - DOMAIN-SUFFIX,hdf.world
